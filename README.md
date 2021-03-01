@@ -30,16 +30,12 @@
 
 + [Madmom: an audio signal processing library written in Python with a strong focus on music information retrieval (MIR) tasks.](https://github.com/CPJKU/madmom)
 
-<<<<<<< HEAD
 + [librosa: Python library for audio and music analysis ](https://github.com/librosa/librosa)
 
 
 #### ForFuture
 
 + [mirdata: common loaders for Music Information Retrieval (MIR) datasets](https://github.com/mir-dataset-loaders/mirdata) 
-=======
-+ [Mirdata: common loaders for Music Information Retrieval (MIR) datasets](https://github.com/mir-dataset-loaders/mirdata) 
->>>>>>> 4fbcc01745ac5a6e75b270b8c4b7706b826eebf4
 
 + [Magenta: a research project exploring the role of machine learning in the process of creating art and music](https://github.com/magenta/magenta)
 
@@ -52,10 +48,12 @@
 + [Ballroom Audio](http://mtg.upf.edu/ismir2004/contest/tempoContest/data1.tar.gz )
 
     [BallroomAnnotations](https://github.com/CPJKU/BallroomAnnotations)
-<<<<<<< HEAD
+
++ [Groove MIDI](https://magenta.tensorflow.org/datasets/groove)
 
 
 ---
+
 
 ## Visual
 
@@ -64,7 +62,5 @@
 + [coordinator: A visual interface for turning an SVG into XY coördinates. ](https://github.com/spotify/coordinator)
 
 + [Fourier-Art: Discrete Fourier Transform to draw any shape ](https://github.com/zarif98sjs/Fourier-Art)
-=======
     
-+ [Groove MIDI](https://magenta.tensorflow.org/datasets/groove)
->>>>>>> 4fbcc01745ac5a6e75b270b8c4b7706b826eebf4
+

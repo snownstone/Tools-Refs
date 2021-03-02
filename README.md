@@ -59,6 +59,12 @@
 
 ### GitRepo
 
++ [bokeh: Interactive Data Visualization in the browser, from Python](https://github.com/bokeh/bokeh)
+
++ [altair: Declarative statistical visualization library for Python](https://github.com/altair-viz/altair)
+
++ [perspective: Streaming pivot visualization via WebAssembly ](https://github.com/finos/perspective)
+
 + [coordinator: A visual interface for turning an SVG into XY coördinates. ](https://github.com/spotify/coordinator)
 
 + [Fourier-Art: Discrete Fourier Transform to draw any shape ](https://github.com/zarif98sjs/Fourier-Art)

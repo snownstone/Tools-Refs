@@ -59,6 +59,8 @@
 
 ### GitRepo
 
++ [celluloid: Matplotlib animations made easy](https://github.com/jwkvam/celluloid)
+
 + [bokeh: Interactive Data Visualization in the browser, from Python](https://github.com/bokeh/bokeh)
 
 + [altair: Declarative statistical visualization library for Python](https://github.com/altair-viz/altair)

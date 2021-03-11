@@ -2,7 +2,9 @@
 
 ## Audio & Music
 
-### AllStartFromFourierTransform
+### Refs
+
+#### Fourier
 
 + [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
 
@@ -13,8 +15,15 @@
 + [OnlineTextbook](https://faculty.nps.edu/rcristi/EO3404/Textbook.pdf)
 
 
+#### Audio
 
-### MuiscProcessingTextbooks(free & online)
++ [WAVE PCM soundfile format](http://soundfile.sapp.org/doc/WaveFormat/)
+    介绍 .wav 格式音频文件
+
++ [wave — Read and write WAV files](https://docs.python.org/3/library/wave.html)
+    python 内置的读写 .wav 文件的包
+
+#### MuiscProcessing
 
 + [Python Notebooks for Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 
@@ -23,6 +32,8 @@
 ### Tools
 
 #### Used
+
++ [soundfile: an audio library based on libsndfile, CFFI, and NumPy (librosa 读写音频文件的依赖之一)](https://github.com/bastibe/python-soundfile)
 
 + [pyaudio: Python bindings for PortAudio, the cross-platform audio I/O library](https://people.csail.mit.edu/hubert/pyaudio/docs/)
 

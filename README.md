@@ -33,6 +33,10 @@
 
 #### Used
 
++ [python-sounddevice: Play and record sound with python](https://github.com/spatialaudio/python-sounddevice/)
+
+    比 pyaudio 更好用
+
 + [soundfile: an audio library based on libsndfile, CFFI, and NumPy (librosa 读写音频文件的依赖之一)](https://github.com/bastibe/python-soundfile)
 
 + [pyaudio: Python bindings for PortAudio, the cross-platform audio I/O library](https://people.csail.mit.edu/hubert/pyaudio/docs/)
@@ -45,6 +49,12 @@
 
 
 #### ForFuture
+
++ [Audio Signal Processing in Python](https://github.com/mgeier/python-audio/blob/master/index.ipynb)
+
++ [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
+
++ [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 
 + [mirdata: common loaders for Music Information Retrieval (MIR) datasets](https://github.com/mir-dataset-loaders/mirdata) 
 
@@ -66,9 +76,9 @@
 ---
 
 
-## Visual
-
 ### GitRepo
+
++ [Markovify: A simple, extensible Markov chain generator](https://github.com/jsvine/markovify)
 
 + [celluloid: Matplotlib animations made easy](https://github.com/jwkvam/celluloid)
 
